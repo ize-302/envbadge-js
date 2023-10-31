@@ -1,0 +1,22 @@
+{
+  "name": "envbadge",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./script.js",
+  "directories": {
+    "example": "examples"
+  },
+  "files": [
+    "script.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ize-302/envbadge-js.git"
+  },
+  "author": "Adavize hassan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ize-302/envbadge-js/issues"
+  },
+  "homepage": "https://github.com/ize-302/envbadge-js#readme"
+}
