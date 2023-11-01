@@ -20,10 +20,6 @@ import TheWelcome from "./components/TheWelcome.vue";
 
   <main>
     <TheWelcome />
-    <component
-      src="../../../../script.js?projectId=9e047058-afa8-4657-b7fa-bc3519ac528a"
-      :is="'script'"
-    ></component>
   </main>
 </template>
 
